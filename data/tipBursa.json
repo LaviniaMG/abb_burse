@@ -1,0 +1,52 @@
+[
+  {
+    "denumire": "Bursă Excelență Olimpică / Internațională"
+  
+  },
+  {
+    "denumire": "Bursă de Performanță pentru Rezultate Deosebite"
+  
+  },
+  {
+    "denumire": "Bursă de Performanță pentru Studiu"
+   
+  },
+  {
+    "denumire": "Bursă de Performanță pentru Cercetare Științifică"
+   
+  },
+  {
+    "denumire": "Bursă Specială"
+  },  
+  {
+    "denumire": "Bursă Socială",
+    "dataStart": "2024-01-01",
+    "dataFinal": "2024-12-31"
+  },
+  {
+    "denumire": "Bursă de Performanță Sportivă",
+    "dataStart": "2024-01-01",
+    "dataFinal": "2024-12-31"
+  },
+    {
+      "denumire": "Bursă de Excelență pentru Rezultate Remarcabile",
+      "dataStart": "2024-01-01",
+      "dataFinal": "2024-12-31"
+    },
+    {
+      "denumire": "Bursă de Performanță",
+      "dataStart": "2024-01-01",
+      "dataFinal": "2024-12-31"
+    },
+    {
+      "denumire": "Bursă de Excelență pentru Rezultate Deosebite în Cercetare",
+      "dataStart": "2024-01-01",
+      "dataFinal": "2024-12-31"
+    },
+    {
+      "denumire": "Bursa ''Mihail Manoilescu''",
+      "dataStart": "2024-01-01",
+      "dataFinal": "2024-12-31"
+    }
+  ]
+  

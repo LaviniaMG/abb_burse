@@ -1,0 +1,51 @@
+[
+  {
+      "idUtilizator": 2,
+      "text": "Înscrierile pentru cursurile de vară au început. Aplicați acum!",
+      "dataAnuntStart": "2024-06-01",
+      "dataAnuntFinal": "2024-06-15",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Participați la conferința noastră anuală pentru a explora ultimele tendințe în tehnologie.",
+      "dataAnuntStart": "2024-09-10",
+      "dataAnuntFinal": "2024-09-12",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Cuantumul burselor acordate studenților pentru semestrul II, anul universitar 2023-2024",
+      "dataAnuntStart": "2024-09-10",
+      "dataAnuntFinal": "2024-09-12",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Cuantumul burselor acordate studenților pentru semestrul I, anul universitar 2023-2024",
+      "dataAnuntStart": "2024-09-10",
+      "dataAnuntFinal": "2024-09-12",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Deschiderea aplicațiilor pentru bursele de excelență în cercetare. Termen limită de aplicare: 30 septembrie.",
+      "dataAnuntStart": "2024-09-01",
+      "dataAnuntFinal": "2024-09-30",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Noul program de burse pentru studenții din anul I este acum disponibil. Verificați criteriile de eligibilitate și aplicați.",
+      "dataAnuntStart": "2024-10-01",
+      "dataAnuntFinal": "2024-10-15",
+      "documentURL": ""
+  },
+  {
+      "idUtilizator": 2,
+      "text": "Înscrierea pentru bursele de performanță academică pentru semestrul II începe pe 1 noiembrie. Termen limită: 15 noiembrie.",
+      "dataAnuntStart": "2024-11-01",
+      "dataAnuntFinal": "2024-11-15",
+      "documentURL": ""
+  }
+]

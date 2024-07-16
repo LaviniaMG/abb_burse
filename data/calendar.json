@@ -1,0 +1,23 @@
+[
+    {
+      "idUtilizator": 1,
+      "Titlu": "Întâlnire departament",
+      "Descriere": "Discuții despre obiectivele trimestriale.",
+      "dataEvenimentStart": "2024-05-15",
+      "dataEvenimentFinal": "2024-05-15",
+      "CuloareText": "#FFFFFF",
+      "CuloareFundal": "#FFC107",
+      "ToataZiuaBool": 0
+    },
+    {
+      "idUtilizator": 1,
+      "Titlu": "Afișarea contestațiilor",
+      "Descriere": "Prezentarea contestațiilor.",
+      "dataEvenimentStart": "2024-06-20",
+      "dataEvenimentFinal": "2024-06-20",
+      "CuloareText": "#FFFFFF",
+      "CuloareFundal": "#DC3545",
+      "ToataZiuaBool": 0
+    }
+  ]
+  

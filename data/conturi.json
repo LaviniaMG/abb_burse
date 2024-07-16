@@ -1,0 +1,23 @@
+[
+    {
+      "idUtilizator": 1,
+      "Titular": "Andrei Ionescu",
+      "numeBanca": "Banca Transilvania",
+      "dataExpirare": "2027-12-31",
+      "Moneda": "EUR",
+      "IBAN": "RO49AAAA1B31007593840000",
+      "CIF": "123456789",
+      "SWIFT": "BTRLRO22"
+    },
+    {
+      "idUtilizator": 2,
+      "Titular": "Elena Popescu",
+      "numeBanca": "BRD",
+      "dataExpirare": "2029-12-31",
+      "Moneda": "RON",
+      "IBAN": "RO24BBBB2C22275593840000",
+      "CIF": "987654321",
+      "SWIFT": "BRDEROBU"
+    }
+  ]
+  
